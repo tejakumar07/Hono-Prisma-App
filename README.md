@@ -20,4 +20,4 @@ Pass the `CloudflareBindings` as generics when instantiating `Hono`:
 const app = new Hono<{ Bindings: CloudflareBindings }>()
 ```
 
-# Notion Notes: https://app.notion.com/p/Serverless-Backends-38bbcbfd806880649fe3d764024019ef?source=copy_link
+# Notion Notes: https://app.notion.com/p/Working-with-CloudFlare-Workers-and-Hono-38cbcbfd806880289c14c38bc70419f3?source=copy_link
